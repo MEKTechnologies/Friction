@@ -14,7 +14,9 @@ Friction is an Android application designed to reduce doomscrolling through inte
 
 Friction R4 'Clarity' delivers refined scroll detection, multi-layered friction strategies, and a minimalist interface focused on digital wellness.
 
-**Break the scroll. Reclaim your focus.**
+### ***Friction basically just unscrolls your feed (after the limit) and gives you a total ragebait.***
+
+## **Break the scroll. Reclaim your focus.**
 
 ## Features
 
